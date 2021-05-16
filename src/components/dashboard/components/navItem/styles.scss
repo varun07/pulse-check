@@ -1,0 +1,12 @@
+.dashboard-side-nav-item {
+  padding: 0.5rem 1rem;
+
+  a {
+    text-decoration: none;
+    color: #4a90e2;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
