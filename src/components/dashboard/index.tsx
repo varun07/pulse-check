@@ -1,4 +1,4 @@
-import { DashboardSideNav } from "./components/dashboardSideNav";
+import DashboardSideNav from "./components/dashboardSideNav";
 import DashboardBody from "./components/dashboardBody";
 
 import './styles.scss';

@@ -5,6 +5,10 @@
     text-decoration: none;
     color: #4a90e2;
 
+    &.active {
+      text-decoration: underline;
+    }
+
     &:hover {
       text-decoration: underline;
     }
